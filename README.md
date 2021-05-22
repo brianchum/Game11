@@ -11,5 +11,5 @@ Game Model
 
 ![Game11Model](https://user-images.githubusercontent.com/73052922/119241724-76fa0d80-bb0d-11eb-9c26-58de12ee304d.gif)
 
-Player only one scenario to win the game
+Only have one scenario user can win the game
 
